@@ -14,7 +14,7 @@ namespace Lib_torte
 
         public override double Prezzo()
         {
-            return Peso * Tempo_preparazione;
+            return (Peso * Tempo_preparazione);
         }
         public bool Mangia(int fetta)
         {

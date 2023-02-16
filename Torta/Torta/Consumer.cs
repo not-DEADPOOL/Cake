@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using Lib_torte;
 
 namespace Consumer
@@ -19,10 +20,10 @@ namespace Consumer
             string nome = "";
             foreach (var torta in torte)
             {
-                Console.WriteLine(torta.Prezzo());
+                Console.WriteLine(Convert.ToDecimal(torta.Prezzo()));
                 if (max<torta.Prezzo()){max = torta.Prezzo();nome = torta.GetNome();}
             }
-            Console.WriteLine("Piu costosa -> " + nome +" che costa " +$"{max}");
+            Console.WriteLine("Piu costosa -> " + nome +" che costa " +$"{Convert.ToDecimal(torte.Max(t=>t.Prezzo()))}");
         }
     }
 }
