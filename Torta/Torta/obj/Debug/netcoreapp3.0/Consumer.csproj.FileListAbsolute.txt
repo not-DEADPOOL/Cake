@@ -1,0 +1,14 @@
+C:\Users\apilati\source\repos\Torta\Torta\bin\Debug\netcoreapp3.0\Consumer.exe
+C:\Users\apilati\source\repos\Torta\Torta\bin\Debug\netcoreapp3.0\Consumer.deps.json
+C:\Users\apilati\source\repos\Torta\Torta\bin\Debug\netcoreapp3.0\Consumer.runtimeconfig.json
+C:\Users\apilati\source\repos\Torta\Torta\bin\Debug\netcoreapp3.0\Consumer.runtimeconfig.dev.json
+C:\Users\apilati\source\repos\Torta\Torta\bin\Debug\netcoreapp3.0\Consumer.dll
+C:\Users\apilati\source\repos\Torta\Torta\bin\Debug\netcoreapp3.0\Consumer.pdb
+C:\Users\apilati\source\repos\Torta\Torta\bin\Debug\netcoreapp3.0\Lib_torte.dll
+C:\Users\apilati\source\repos\Torta\Torta\bin\Debug\netcoreapp3.0\Lib_torte.pdb
+C:\Users\apilati\source\repos\Torta\Torta\obj\Debug\netcoreapp3.0\Consumer.csprojAssemblyReference.cache
+C:\Users\apilati\source\repos\Torta\Torta\obj\Debug\netcoreapp3.0\Consumer.AssemblyInfoInputs.cache
+C:\Users\apilati\source\repos\Torta\Torta\obj\Debug\netcoreapp3.0\Consumer.AssemblyInfo.cs
+C:\Users\apilati\source\repos\Torta\Torta\obj\Debug\netcoreapp3.0\Consumer.csproj.CopyComplete
+C:\Users\apilati\source\repos\Torta\Torta\obj\Debug\netcoreapp3.0\Consumer.dll
+C:\Users\apilati\source\repos\Torta\Torta\obj\Debug\netcoreapp3.0\Consumer.pdb

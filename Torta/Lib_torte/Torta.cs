@@ -5,10 +5,11 @@ namespace Lib_torte
     public class Torta
     {
         protected string Nome;
-        protected double Peso;
+        double _peso;
+        protected double Peso { get { return _peso; } set { _peso = value < 0 ? 0 : value; } }
         protected double Tempo_preparazione;
 
-        public Torta(string nome, double peso,double t)
+        public Torta(string nome, double peso, double t)
         {
             Tempo_preparazione = t;
             Nome = nome;
@@ -21,6 +22,11 @@ namespace Lib_torte
             Nome = nome;
             Peso = peso;
         }
+        public string GetNome()
+        {
+            return Nome;
+        }
+
         public virtual double Prezzo()
         {
             return 0;

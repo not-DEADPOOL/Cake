@@ -16,9 +16,11 @@ namespace Lib_torte
         {
             return Peso * Tempo_preparazione;
         }
-        public void Mangia(int fetta)
+        public bool Mangia(int fetta)
         {
             Quantita-= fetta;
+            Peso = Quantita;
+            return Quantita - fetta >= 0 ? true : false;
         }
     }
     

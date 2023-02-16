@@ -1,0 +1,8 @@
+C:\Users\apilati\source\repos\Torta\Lib_torte\bin\Debug\netcoreapp3.0\Lib_torte.deps.json
+C:\Users\apilati\source\repos\Torta\Lib_torte\bin\Debug\netcoreapp3.0\Lib_torte.dll
+C:\Users\apilati\source\repos\Torta\Lib_torte\bin\Debug\netcoreapp3.0\Lib_torte.pdb
+C:\Users\apilati\source\repos\Torta\Lib_torte\obj\Debug\netcoreapp3.0\Lib_torte.csprojAssemblyReference.cache
+C:\Users\apilati\source\repos\Torta\Lib_torte\obj\Debug\netcoreapp3.0\Lib_torte.AssemblyInfoInputs.cache
+C:\Users\apilati\source\repos\Torta\Lib_torte\obj\Debug\netcoreapp3.0\Lib_torte.AssemblyInfo.cs
+C:\Users\apilati\source\repos\Torta\Lib_torte\obj\Debug\netcoreapp3.0\Lib_torte.dll
+C:\Users\apilati\source\repos\Torta\Lib_torte\obj\Debug\netcoreapp3.0\Lib_torte.pdb
